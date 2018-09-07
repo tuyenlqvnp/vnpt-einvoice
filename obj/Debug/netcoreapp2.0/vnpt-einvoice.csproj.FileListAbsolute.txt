@@ -1,0 +1,11 @@
+/Users/lamtuyen/Public/tuyen/vnpt-einvoice/bin/Debug/netcoreapp2.0/vnpt-einvoice.deps.json
+/Users/lamtuyen/Public/tuyen/vnpt-einvoice/bin/Debug/netcoreapp2.0/vnpt-einvoice.runtimeconfig.json
+/Users/lamtuyen/Public/tuyen/vnpt-einvoice/bin/Debug/netcoreapp2.0/vnpt-einvoice.runtimeconfig.dev.json
+/Users/lamtuyen/Public/tuyen/vnpt-einvoice/bin/Debug/netcoreapp2.0/vnpt-einvoice.dll
+/Users/lamtuyen/Public/tuyen/vnpt-einvoice/bin/Debug/netcoreapp2.0/vnpt-einvoice.pdb
+/Users/lamtuyen/Public/tuyen/vnpt-einvoice/obj/Debug/netcoreapp2.0/vnpt-einvoice.csprojResolveAssemblyReference.cache
+/Users/lamtuyen/Public/tuyen/vnpt-einvoice/obj/Debug/netcoreapp2.0/vnpt-einvoice.csproj.CoreCompileInputs.cache
+/Users/lamtuyen/Public/tuyen/vnpt-einvoice/obj/Debug/netcoreapp2.0/vnpt-einvoice.AssemblyInfoInputs.cache
+/Users/lamtuyen/Public/tuyen/vnpt-einvoice/obj/Debug/netcoreapp2.0/vnpt-einvoice.AssemblyInfo.cs
+/Users/lamtuyen/Public/tuyen/vnpt-einvoice/obj/Debug/netcoreapp2.0/vnpt-einvoice.dll
+/Users/lamtuyen/Public/tuyen/vnpt-einvoice/obj/Debug/netcoreapp2.0/vnpt-einvoice.pdb
