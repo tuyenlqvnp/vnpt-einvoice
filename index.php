@@ -528,9 +528,9 @@ function () {
 								<br>
                                 <div class="iconrow" style="Margin-left: 30px">
                                     <a>2. VSC - Miền Nam</a>
-                                    <p>Mr.Lê Đình Khôi</p>
+                                    <p>Mr.Hồng Vinh Quang</p>
                                     <br>
-                                    <p>ĐT:   090 776 8586</p>
+                                    <p>ĐT:   094 971 7177</p>
                                     
                                 </div>
 								<br>
