@@ -467,9 +467,9 @@ function () {
                         <p>
 	<span style="color:#b22222;"><span style="font-family: tahoma,geneva,sans-serif;"><strong><strong>3. Miền Nam</strong></strong></span></span></p>
 <p>
-	1. Mai Thị Mỹ Xuân<br>
+	1. Nguyễn Minh Hoàng<br>
 	Phòng KHDN-TT HTBH MN<br>
-	ĐT: 091 534 8189, (028) 3824 8888 (ext.7827)<br>
+	ĐT: 0888 0987 21, (028) 3824 8888 (ext.7827)<br>
 	Mail: xuanmtm@vnpt.vn</p>
 <p>
 	2. Hồng Vinh Quang<br>
